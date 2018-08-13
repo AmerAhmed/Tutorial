@@ -1,0 +1,10 @@
+table {
+    border: none;
+}
+th,
+td {
+    border: none;
+    background-color: #0d8665;
+    padding: 5px;
+    width: 100px;
+}
