@@ -1,4 +1,4 @@
-# Tutorial Calculator
+# Tutorial's Calculator
 
 
  Here are sixth libraries that include the entire program, the first three are for release-Calculator.exe. It's just double click Calculator.exe to run Calculator.exe
